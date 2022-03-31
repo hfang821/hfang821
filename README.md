@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Kevin, a student developer from Toronto, Ontario .
+
+Here's what I've been up to:
+
+- 🌱 I’m currently learning Full-Stack Web Development using HTML, CSS and JavaScript (and their libraies!)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfang821&count_private=true&theme=tokyonight&showicons=true)]()
