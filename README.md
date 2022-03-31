@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kevin, a student developer from Toronto, Ontario .
+<i>I'm Kevin, a student developer from Toronto, Ontario.</i>
 
-Here's what I've been up to:
+<i>I’m currently learning Full-Stack Web Development using HTML, CSS and JavaScript (and their libraies!) 🌱 </i>
+
+<b>Here's what I've been up to:</b>
 <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfang821&count_private=true&showicons=true)]()
 
-I’m currently learning Full-Stack Web Development using HTML, CSS and JavaScript (and their libraies!) 🌱 
+
 
