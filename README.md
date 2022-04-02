@@ -21,7 +21,5 @@ Here are some ideas to get you started:
 
 <b>Here's what I've been up to:</b>
 <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfang821&count_private=true&showicons=true)]()
-
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfang821&theme=tokyonight&count_private=true&showicons=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfang821&theme=tokyonight)](https://github.com/hfang821/github-readme-stats)
 
