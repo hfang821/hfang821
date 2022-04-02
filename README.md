@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <i>I'm Kevin, a student developer from Toronto, Ontario.⚡</i>
 
-<i>I’m currently learning Full-Stack Web Development using HTML, CSS and JavaScript (and their libraies!) 🌱 </i>
+<i>I’m currently learning Full-Stack Web Development using HTML, CSS and JavaScript (and their libraries!) 🌱 </i>
 
 <b>Here's what I've been up to:</b>
 <br>
