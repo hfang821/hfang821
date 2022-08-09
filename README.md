@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <i>I'm Kevin, a Full-Stack Web developer from Toronto, Ontario. ✨</i>
 
-<i>I’m currently performing Full-Stack Web Development using HTML, CSS and JavaScript, Node.js and their frameworks & libraries! 🌱 </i>
+<i>I’m currently performing Full-Stack Web Development using JavaScript ES6, MERN stack, SQL, HTML, CSS! 🌱 </i>
 
  *Fun fact: I'm a full-time Developer, and a part-time Powerlifter. ⚡
 
