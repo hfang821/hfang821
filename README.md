@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <i>I’m currently performing Full-Stack Web Development using JavaScript ES6, MERN stack, SQL, HTML, CSS! 🌱 </i>
 
- *Fun fact: I'm a full-time Developer, and a part-time Powerlifter. ⚡
+<i>Creative Coder by day, Powerlifter by night. ⚡</i>
 
 
 <b>Here's what I've been up to:</b>
