@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=hfang821&hide_border=true&theme=tokyonight&line_height=34&count_private=true&showicons=true)]() [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfang821&theme=tokyonight&hide_border=true)](https://github.com/hfang821/github-readme-stats)
 
+<a href="https://hfang821.github.io/react_portfolio_v2/">Check out my Portfolio Page!</a>
